@@ -1,7 +1,7 @@
 Hello🤗 
 I am Peace, but you can as well address me as Peace-lov. 
 - 🔭 I’m currently working on my front-end projects together with ALX
-- 🌱 I’m currently learning tips on github
+- 🌱 I’m currently learning with GitHub Student Developer Pack
 - 👯 I’m looking to collaborate with you.
 - 📫 How to reach me: https://github.com/Peace-lov 
 - ⚡ Fun fact: I love dancing, swimming and exercise. 
